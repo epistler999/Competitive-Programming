@@ -38,6 +38,7 @@ using namespace std;
 #define     gcd(a,b)            __gcd(a,b)
 
 
+// solution function
 ll longestIncreasingSubsequence(ll *arr,ll n)
 {
     ll dp[100]={0};
@@ -59,7 +60,7 @@ ll longestIncreasingSubsequence(ll *arr,ll n)
 }
 
 
-
+// driver function
 int main()
 {
     ll n;
@@ -69,5 +70,6 @@ int main()
         cin>>arr[i];
         
     cout<<longestIncreasingSubsequence(arr,n)<<"\n";
+    
     return 0;
 }
