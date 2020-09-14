@@ -39,7 +39,7 @@ using namespace std;
 #define     BPC(x)              __builtin_popcountll(x)
 #define     gcd(a,b)            __gcd(a,b)
 
-
+// solution function
 ll minOperations(string inp,string out)
 {
     ll inp1=inp.length();
@@ -69,22 +69,12 @@ ll minOperations(string inp,string out)
             dp[i][j] = min(q1,min(q2,q3)) + (inp[i-1]!=out[j-1]);
         }
     }
-    /*
-    lp0(i,0,inp1)
-    {
-        lp0(j,0,out1)
-        {
-            cout<<dp[i][j]<<" ";
-        }
-        cout<<"\n";
-    }
-    */
     return dp[inp1][out1];
     
 }
 
 
-
+// Driver Function
 int main()
 {
     string s1,s2;
