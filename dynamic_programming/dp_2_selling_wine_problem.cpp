@@ -41,38 +41,36 @@ ll gcd(ll a,ll b) {if (a==0) return b;return gcd(b%a,a);}
 
 ll memo[10000][10000];
 
-// brute force
-/*
-ll maxProfit(ll *arr,ll s,ll e, ll year)
-{
-    if(s>e)
-        return 0;
-    ll q1=(arr[s]*year+maxProfit(arr,s+1,e,year+1));
-    ll q2=(arr[e]*year+maxProfit(arr,s,e-1,year+1));
-    return max(q1,q2);
-}
-*/
+// brute force approach
+// ll maxProfit(ll *arr,ll s,ll e, ll year)
+// {
+//     if(s>e)
+//         return 0;
+
+//     ll q1=(arr[s]*year+maxProfit(arr,s+1,e,year+1));
+//     ll q2=(arr[e]*year+maxProfit(arr,s,e-1,year+1));
+//     return max(q1,q2);
+// }
 
 
 
-/*
-// memoziation technique- top to bottom approach
-ll maxProfit(ll* arr,ll s,ll e, ll year)
-{
-    if(s>e)
-        return 0;
+
+// memoziation technique top-down approach
+// ll maxProfit(ll* arr,ll s,ll e, ll year)
+// {
+//     if(s>e)
+//         return 0;
         
-    if(memo[s][e] != -1)
-        return memo[s][e];
+//     if(memo[s][e] != -1)
+//         return memo[s][e];
         
-    ll q1=(arr[s]*year+maxProfit(arr,s+1,e,year+1));
-    ll q2=(arr[e]*year+maxProfit(arr,s,e-1,year+1));
-    memo[s][e]=max(q1,q2);
-    return memo[s][e];
-}
-*/
-// dynamic programming - bottom up approach
+//     ll q1=(arr[s]*year+maxProfit(arr,s+1,e,year+1));
+//     ll q2=(arr[e]*year+maxProfit(arr,s,e-1,year+1));
+//     memo[s][e]=max(q1,q2);
+//     return memo[s][e];
+// }
 
+// dynamic programming bottom-up approach
 ll maxProfit(ll* arr,ll n)
 {
     ll dp[1000][1000] ={0};
@@ -83,8 +81,6 @@ ll maxProfit(ll* arr,ll n)
         dp[i][i]=arr[i]*year;
     }
     year--;
-    
-    
     for(ll len=2;len<=n;len++)
     {
         ll col=len-1;
@@ -99,16 +95,6 @@ ll maxProfit(ll* arr,ll n)
         }
         year--;
     }
-    /*
-    for(ll i=0;i<n;i++)
-    {
-        for(ll j=0;j<n;j++)
-        {
-            cout<<dp[i][j]<<" ";
-        }
-        cout<<"\n";
-    }
-    */
     return dp[0][n-1];
 }
 int main() 
@@ -126,13 +112,12 @@ int main()
     memset(memo,-1,sizeof(memo));
     
     // brute force
-    //cout<<maxProfit(arr,0,n-1,1);
-    //cout<<"\n";
+    // cout<<maxProfit(arr,0,n-1,1);
+    // cout<<"\n";
     
     // memoiazation
-    //year=1;
-    //cout<<maxProfit(arr,s,e,year)<<"\n";
-    
+    // year=1;
+    // cout<<maxProfit(arr,s,e,year)<<"\n";
     
     // dp -botton up approach
     cout<<maxProfit(arr,n)<<"\n";
