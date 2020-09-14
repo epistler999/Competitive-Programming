@@ -38,6 +38,7 @@ using namespace std;
  
 ll gcd(ll a,ll b) {if (a==0) return b;return gcd(b%a,a);}
 
+// top down approach
 ll findOperationByMemoization(ll* memo,ll n)
 {
     if(memo[n]!=-1)
@@ -58,7 +59,7 @@ ll findOperationByMemoization(ll* memo,ll n)
     
 }
 
-
+// bottom-up approach
 ll findOperationsByDP(ll* dp,ll n)
 {
     dp[0]=0;
@@ -83,8 +84,8 @@ int main()
     ll n;
     cin>>n;
     
+    // top-down approach
     ll memo[n+1];
-    
     fill(memo,memo+n+1,-1);
     memo[0]=0;
     memo[1]=0;
@@ -92,6 +93,7 @@ int main()
     memo[3]=1;
     cout<<findOperationByMemoization(memo,n)<<"\n";
     
+    //bottom-up approach
     ll dp[n+1];
     fill(dp,dp+n+1,-1);
     cout<<findOperationsByDP(dp,n)<<"\n";
