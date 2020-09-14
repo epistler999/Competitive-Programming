@@ -38,18 +38,18 @@ using namespace std;
  
 ll gcd(ll a,ll b) {if (a==0) return b;return gcd(b%a,a);}
 
+// Solution
 ll findMinimumPath(ll arr[][100],ll n,ll m)
 {
     ll dp[100][100]={0};
     dp[0][0]=arr[0][0];
+ 
     for(ll col=1;col<m;col++)
-    {
         dp[0][col]=dp[0][col-1]+arr[0][col];
-    }
+ 
     for(ll row=1;row<n;row++)
-    {
         dp[row][0]=dp[row-1][0]+arr[row][0];
-    }
+    
     for(ll i=1;i<n;i++)
     {
         for(ll j=1;j<m;j++)
@@ -57,8 +57,11 @@ ll findMinimumPath(ll arr[][100],ll n,ll m)
             dp[i][j]=min(dp[i][j-1],dp[i-1][j])+arr[i][j];
         }
     }
+    
     return dp[n-1][m-1];
 }
+
+// Driver Function
 int main() 
 {
     ll n,m;
@@ -70,5 +73,6 @@ int main()
             cin>>arr[i][j];
     
     cout<<findMinimumPath(arr,n,m)<<"\n";
+    
     return 0;
 }
