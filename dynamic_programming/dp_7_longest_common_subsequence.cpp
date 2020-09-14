@@ -37,7 +37,7 @@ using namespace std;
 #define     BPC(x)              __builtin_popcountll(x)
 #define     gcd(a,b)            __gcd(a,b)
 
-
+// solution function
 ll longestCommonSubsequence(string s1,string s2)
 {
     ll l1=s1.length();
@@ -62,7 +62,7 @@ ll longestCommonSubsequence(string s1,string s2)
 }
 
 
-
+// Driver function
 int main()
 {
     string s1,s2;
