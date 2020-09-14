@@ -41,6 +41,7 @@ using namespace std;
 
 ll dp[100][100][8];
 
+// solution function
 ll Solve(ll *arr1,ll *arr2,ll n,ll m,ll i,ll j,ll k)
 {
     // if any of he string is finished, ans is 0
@@ -67,7 +68,7 @@ ll Solve(ll *arr1,ll *arr2,ll n,ll m,ll i,ll j,ll k)
 }
 
 
-
+// driver function
 int main()
 {
     initial(dp,-1);
