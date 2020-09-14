@@ -53,7 +53,6 @@ ll maxProfit(ll* arr, ll length)
 ll maxProfitDp(ll *arr,ll totlength)
 {
     ll dp[totlength+1]={0};
-    
     for(ll len=1;len<=totlength;len++)
     {
         ll best=0;
@@ -76,7 +75,6 @@ int main()
     for(ll i=1;i<=n;i++)
         cin>>arr[i];
     
-    //cout<<maxProfit(arr,n)<<"\n";
-     cout<<maxProfit(arr,n)<<"\n";   
+    cout<<maxProfit(arr,n)<<"\n";   
     return 0;
 }
