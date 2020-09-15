@@ -37,7 +37,7 @@
 
 
 
-									 Number Theory
+ 									Number Theory
 
 
 
@@ -81,7 +81,7 @@
 
 
 
-											References 
+ 									References 
 
 <ul>
 <li> (https://atcoder.jp/)</li>
