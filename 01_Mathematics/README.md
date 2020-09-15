@@ -41,8 +41,8 @@
 
 02.  Extended Euclid's Algorithm - 
 <ul>
-	<li>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)</li>
-	<li>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid)</li>
+	<li>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html/)</li>
+	<li>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid/)</li>
 </ul>
 <br>
 
