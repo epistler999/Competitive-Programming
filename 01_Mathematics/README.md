@@ -51,10 +51,10 @@
 04. Application of Extended Euclid's algorithm
 
 05. Sieve of Eratosthenes -
-	<ul>
+	<ol>
 	<li>[coding blocks youtube video](https://www.youtube.com/watch?v=yB57bcffJo4)</li>
 	<li>GFG [visit](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)</li>
-	</ul>
+	</ol>
 
 06. Segmented Sieve -
 	<ol>
@@ -64,11 +64,11 @@
 	</ol>
 
 07. Linear Diophantine Equation [visit](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
-    	<ul>
-    		<li>Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)</li>
-    		<li>GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)</li>
-		<li>practice questions on cp-algorithms</li>
-    	</ul>  
+    	<ol>
+    	<li>Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)</li>
+    	<li>GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)</li>
+	<li>practice questions on cp-algorithms</li>
+    	</ol>  
 
 08. Eulear Totient Function and its properties (cp-algorithms),
     Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)
@@ -103,17 +103,17 @@
 
 /**************** References ***************************/
 
-
--> (https://atcoder.jp/)
--> (https://www.codechef.com/)
--> (https://codeforces.com/)
--> (https://cp-algorithms.com/)
--> (https://www.geeksforgeeks.org/)
--> (https://www.hackerearth.com/)
--> (https://www.hackerrank.com/)
--> (http://leetcode.com/)
--> (http://oeis.org/)
--> (https://www.spoj.com/)
+<ul>
+	<li>-> (https://atcoder.jp/)</li>
+<li>-> (https://www.codechef.com/)</li>
+<li>-> (https://codeforces.com/)</li>
+<li>-> (https://cp-algorithms.com/)</li>
+<li>-> (https://www.geeksforgeeks.org/)</li>
+<li>-> (https://www.hackerearth.com/)</li>
+<li>-> (https://www.hackerrank.com/)</li>
+<li>-> (http://leetcode.com/)</li>
+<li>-> (http://oeis.org/)</li>
+<li>-> (https://www.spoj.com/)</li>
 
 /**********************************************************/
 
