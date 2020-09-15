@@ -36,15 +36,15 @@
 
 
 
-01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
+
+01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
 02.  Extended Euclid's Algorithm - 
 	<ol>
 	<li>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html/)</li>
 	<li>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid/)</li>
 	</ol>
-<br>
 
 03. Multiplicative Modulo Inverse [cp-algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
 
@@ -67,11 +67,7 @@
     	<li>[Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)</li>
 	</ol>
 
-09. Wilson theorm - [visit](https://www.geeksforgeeks.org/wilsons-theorem)
-    	<ol>
-    	<li>cp-algorithms - [Factorial modulo p in O(plogn)(https://cp-algorithms.com/algebra/factorial-modulo.html),</li>
-	<li>SPOJ ques - [DCEPC11B - Boring Factorials](https://www.spoj.com/problems/DCEPC11B)</li>
-	</ol>
+09. Wilson theorm - [visit](https://www.geeksforgeeks.org/wilsons-theorem)<ol><li>cp-algorithms - [Factorial modulo p in O(plogn)(https://cp-algorithms.com/algebra/factorial-modulo.html),</li><li>SPOJ ques - [DCEPC11B - Boring Factorials](https://www.spoj.com/problems/DCEPC11B)</li></ol>
 
 10. Lucas Algorithm [visit](https://www.hackerearth.com/practice/notes/ncr-mod-mod-lucas-theorem)
     
