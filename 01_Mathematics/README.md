@@ -54,12 +54,7 @@
 
 06. Segmented Sieve<ol><li>[coding ninjas youtube video](https://www.youtube.com/watch?v=fByR5N-TseY&list=PLdTHVf36gGv86MNHZjJCQqGwGyxO8aa_C&index=18)</li><li>GFG resource [visit](https://www.geeksforgeeks.org/segmented-sieve)</li><li>GFG ques - [product of primes](https://practice.geeksforgeeks.org/problems/product-of-primes)</li></ol>
 
-07. Linear Diophantine Equation [visit](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
-    	<ol>
-    	<li>Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)</li>
-    	<li>GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)</li>
-	<li>practice questions on cp-algorithms</li>
-    	</ol>  
+07. Linear Diophantine Equation [visit](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)<ol><li>Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)</li><li>GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)</li><li>practice questions on cp-algorithms</li></ol>  
 
 08. Eulear Totient Function and its properties<ol><li>[cp-algorithms](https://cp-algorithms.com/algebra/phi-function.html)</li><li>[Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)</li></ol>
 
