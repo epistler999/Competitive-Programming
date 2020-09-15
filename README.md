@@ -1,3 +1,3 @@
 # Data-Structures
 
-[your link here](https://leetcode.com/master_killer/)
+[your link here](https://leetcode.com/)
