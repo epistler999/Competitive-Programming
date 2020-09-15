@@ -62,11 +62,11 @@
 	</ol>
 
 07. Linear Diophantine Equation [visit](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
-    <ol>
-    <li>Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem),</li>
-    <li>GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)</li>
-    </ol>
-    and then cp-algorithms  
+    	<ol>
+    	<li>Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)</li>
+    	<li>GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)</li>
+	<li>practice questions on cp-algorithms</li>
+    	</ol>  
 
 08. Eulear Totient Function and its properties (cp-algorithms),
     Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)
