@@ -69,7 +69,7 @@
     
 11. Fermat Little Theorm [visit](https://www.youtube.com/watch?v=aGjfSTr_0AE)
   
-12. [Chinese remainder theorm (CRT)](https://www.youtube.com/watch?v=vPum8EqmFz0), time : (1:19:00 - 1:34:00)<ol><li>Codeforces ques - [Competitive Programmer](https://codeforces.com/problemset/problem/1266/A)</li><li>Codeforces ques - [Remaiders Game](https://codeforces.com/contest/688/problem/D)</li></ol>
+12. Chinese remainder theorm (CRT) - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0), time : (1:19:00 - 1:34:00)<ol><li>Codeforces ques - [Competitive Programmer](https://codeforces.com/problemset/problem/1266/A)</li><li>Codeforces ques - [Remaiders Game](https://codeforces.com/contest/688/problem/D)</li></ol>
 
 13. Miller-Rabin Primality Test <ol><li>[cp-algorithms](https://cp-algorithms.com/algebra/primality_tests.html)</li><li>[GFG](https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/)</li></ol>
 
