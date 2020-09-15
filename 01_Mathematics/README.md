@@ -1,7 +1,7 @@
 
 
 
- 									*Mathematics*
+ 									***Mathematics***
 									
 									
 01.  big integer [visit](https://www.geeksforgeeks.org/advanced-c-boost-library/)
@@ -31,15 +31,13 @@
 
 
 
-									 *Number Theory*
+									 ***Number Theory***
 
 
 
 
+01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)</li>
 
-<ol>
-<li>01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)</li>
-</ol>
 02.  Extended Euclid's Algorithm - 
 	<ol>
 	<li>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html/)</li>
