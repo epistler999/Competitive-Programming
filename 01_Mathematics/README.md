@@ -1,43 +1,48 @@
 
 
 
-/******************************************** Mathematics *******************************************************************/
+ 									Mathematics
+									
+									
+01.  big integer [visit] (https://www.geeksforgeeks.org/advanced-c-boost-library/)
 
-01. big integer [visit] (https://www.geeksforgeeks.org/advanced-c-boost-library/)
+02.  factorial of large numbers [visit](https://www.geeksforgeeks.org/factorial-large-number/) 
 
-02. factorial of large numbers [visit](https://www.geeksforgeeks.org/factorial-large-number/) 
+03.  fast exponentiation [visit](https://cp-algorithms.com/algebra/binary-exp.html)
 
-03. fast exponentiation [visit](https://cp-algorithms.com/algebra/binary-exp.html)
+04.  spoj ques [Recursive Sequence](https://www.spoj.com/problems/SEQ/)
 
-04. spoj ques [Recursive Sequence](https://www.spoj.com/problems/SEQ/)
+05.  Variation spoj ques - [SPP](https://www.spoj.com/problems/SPP/)
 
-05. Variation spoj ques - [SPP](https://www.spoj.com/problems/SPP/)
-
-06. Pigeon hole principle [visit](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
+06.  Pigeon hole principle [visit](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
 	
 	<br>6.1 Codechef - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)</br>
 	<br>6.2 Codechef - [The Gray-Similar code](https://www.codechef.com/problems/GRAYSC)</br>
 	<br>6.3 Spoj - [HOLI-Holiday Accomadation](https://www.spoj.com/problems/HOLI/) with concept of graph</br> 
 
-07. [inclusion - exclusion principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+07.  [inclusion - exclusion principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
 
-08. Codechef [Sereja and LCM](https://www.codechef.com/problems/SEALCM) only think and then see solution
+08.  Codechef [Sereja and LCM](https://www.codechef.com/problems/SEALCM) only think and then see solution
 
-09. Mathematical Expectation and Bernoulli trial
+09.  Mathematical Expectation and Bernoulli trial
 
-10. [Binomial Cofficient](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) 
-
-/****************************************************************************************************************************/
+10.  [Binomial Cofficient](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) 
 
 
-/********************** Number Theory***********************/
 
-01. Euclid Algo - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
-02. Extended Euclid's Algo - 
+
+
+									 Number Theory
+
+
+
+01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
+
+02.  Extended Euclid's Algorithm - 
 	
-	[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html),
-    	Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid)
+	<br>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)</br>,
+    	<br>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid)</br>
 
 03. Multiplicative Modulo Inverse [cp-algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
 
