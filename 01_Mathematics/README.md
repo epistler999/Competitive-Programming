@@ -39,10 +39,8 @@
 01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
 02.  Extended Euclid's Algorithm - 
-	<ul>
-	<li>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)</li>,
-    	<li>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid)</li>
-	</ul>
+<ul><li>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)</li>,<li>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid)</li></ul>
+<br>
 
 03. Multiplicative Modulo Inverse [cp-algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
 
