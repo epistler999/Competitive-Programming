@@ -1,3 +1,3 @@
 # Data-Structures
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[adjustable](http://google.com "Giiidd"){:target="_blank"}
