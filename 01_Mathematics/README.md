@@ -1,22 +1,22 @@
 
-/********************************************************************* # Mathematics ***************************************************************************************/
 
-01. big integer [visit](https://www.geeksforgeeks.org/advanced-c-boost-library/)
+/********************************** # Mathematics ******************************/
+
+01. big integer [visit] (https://www.geeksforgeeks.org/advanced-c-boost-library/)
 
 02. factorial of large numbers [visit](https://www.geeksforgeeks.org/factorial-large-number/) 
 
-03. fast exponentiation [visit(https://cp-algorithms.com/algebra/binary-exp.html)
+03. fast exponentiation [visit](https://cp-algorithms.com/algebra/binary-exp.html)
 
 04. spoj ques [Recursive Sequence](https://www.spoj.com/problems/SEQ/)
 
-05. Variation
-    spoj ques - [SPP](https://www.spoj.com/problems/SPP/)
+05. Variation spoj ques - [SPP](https://www.spoj.com/problems/SPP/)
 
 06. Pigeon hole principle [visit](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
-   	
+	
 	6.1 Codechef - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)
-   	6.2 Codechef - [The Gray-Similar code](https://www.codechef.com/problems/GRAYSC)
-   	6.3 Spoj - [HOLI-Holiday Accomadation](https://www.spoj.com/problems/HOLI/) with concept of graph 
+	6.2 Codechef - [The Gray-Similar code](https://www.codechef.com/problems/GRAYSC)
+	6.3 Spoj - [HOLI-Holiday Accomadation](https://www.spoj.com/problems/HOLI/) with concept of graph 
 
 07. [inclusion - exclusion principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
 
