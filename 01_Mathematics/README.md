@@ -71,7 +71,7 @@
 08. Eulear Totient Function and its properties (cp-algorithms),
     Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)
 
-09. Wilson theorm - [visit](https://www.geeksforgeeks.org/wilsons-theorem/)
+09. Wilson theorm - [visit](https://www.geeksforgeeks.org/wilsons-theorem)
     	<ol>
     	<li>cp-algorithms - [Factorial modulo p in O(plogn)(https://cp-algorithms.com/algebra/factorial-modulo.html),</li>
 	<li>SPOJ ques - [DCEPC11B - Boring Factorials](https://www.spoj.com/problems/DCEPC11B/)</li>
