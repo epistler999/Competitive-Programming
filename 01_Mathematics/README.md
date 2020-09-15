@@ -39,48 +39,59 @@
 01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
 02.  Extended Euclid's Algorithm - 
-	
-	<br>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)</br>,
-    	<br>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid)</br>
+	<ul>
+	<li>[cp-algorithms](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)</li>,
+    	<li>Hackerrank ques - [math158 Extended Euclidean Algorithm](https://www.hackerrank.com/contests/test-contest-47/challenges/m158-multiple-euclid)</li>
+	</ul>
 
 03. Multiplicative Modulo Inverse [cp-algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
 
 04. Application of Extended Euclid's algorithm
 
-05. Sieve of Eratosthenes 
-	[coding blocks youtube video](https://www.youtube.com/watch?v=yB57bcffJo4)
-    	GFG [visit](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) 
+05. Sieve of Eratosthenes -
+	<ul>
+	<li>[coding blocks youtube video](https://www.youtube.com/watch?v=yB57bcffJo4)</li>
+	<li>GFG [visit](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)</li>
+	</ul>
 
-06. Segmented Sieve 
-	[coding ninjas youtube video](https://www.youtube.com/watch?v=fByR5N-TseY&list=PLdTHVf36gGv86MNHZjJCQqGwGyxO8aa_C&index=18)
-    	GFG resource [visit](https://www.geeksforgeeks.org/segmented-sieve/?ref=lbp)
-	GFG ques - [product of primes](https://practice.geeksforgeeks.org/problems/product-of-primes/0)
+06. Segmented Sieve -
+	<ol>
+	<li>[coding ninjas youtube video](https://www.youtube.com/watch?v=fByR5N-TseY&list=PLdTHVf36gGv86MNHZjJCQqGwGyxO8aa_C&index=18)</li>
+	<li>GFG resource [visit](https://www.geeksforgeeks.org/segmented-sieve/?ref=lbp)</li>
+	<li>GFG ques - [product of primes](https://practice.geeksforgeeks.org/problems/product-of-primes/0)</li>
+	</ol>
 
 07. Linear Diophantine Equation [visit](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
-    Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem),
-    GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)
+    <ol>
+    <li>Hackerank ques - [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem),</li>
+    <li>GFG ques - [Find X and Y in Linear Equation](https://practice.geeksforgeeks.org/problems/find-x-and-y-in-linear-equation/0)</li>
+    </ol>
     and then cp-algorithms  
 
 08. Eulear Totient Function and its properties (cp-algorithms),
     Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)
 
 09. Wilson theorm - [visit](https://www.geeksforgeeks.org/wilsons-theorem/)
-    cp-algorithms - [Factorial modulo p in O(plogn)(https://cp-algorithms.com/algebra/factorial-modulo.html),
-    SPOJ ques - [DCEPC11B - Boring Factorials](https://www.spoj.com/problems/DCEPC11B/)
+    	<ol>
+    	<li>cp-algorithms - [Factorial modulo p in O(plogn)(https://cp-algorithms.com/algebra/factorial-modulo.html),</li>
+	<li>SPOJ ques - [DCEPC11B - Boring Factorials](https://www.spoj.com/problems/DCEPC11B/)</li>
+	</ol>
 
 10. Lucas Algorithm [visit](https://www.hackerearth.com/practice/notes/ncr-mod-mod-lucas-theorem/)
     
 11. Fermat Little Theorm [visit](https://www.youtube.com/watch?v=aGjfSTr_0AE)
   
-12. Chinese remainder theorm (CRT)- ***Important***
-    Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0), time : (1:19:00 - 1:34:00)
-    Codeforces ques - [Competitive Programmer](https://codeforces.com/problemset/problem/1266/A)
-    Codeforces ques - [Remaiders Game](https://codeforces.com/contest/688/problem/D)
-
-13. Miller-Rabin Primality Test 
+12. Chinese remainder theorm (CRT)- ***Important*** Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0), time : (1:19:00 - 1:34:00)
 	
-	cp-algorithms (https://cp-algorithms.com/algebra/primality_tests.html)
-    	GFG (https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/)
+	<ol>
+    	<li>Codeforces ques - [Competitive Programmer](https://codeforces.com/problemset/problem/1266/A)</li>
+	<li>Codeforces ques - [Remaiders Game](https://codeforces.com/contest/688/problem/D)</li>
+	</ol>
+13. Miller-Rabin Primality Test 
+	<ol>
+	<li>cp-algorithms (https://cp-algorithms.com/algebra/primality_tests.html)</li>
+	<li>GFG (https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/)</li>
+	</ol>
 
 /****************************************************************************************************************************************************************************/
      
