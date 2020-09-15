@@ -10,7 +10,7 @@
 04. spoj ques "Recursive Sequence"
 
 05. Variation
-    spoj ques -"www.spoj.com/problems/SPP/"
+    spoj ques - [SPP](https://www.spoj.com/problems/SPP/)
 
 06. Pigeon hole principle
    	
