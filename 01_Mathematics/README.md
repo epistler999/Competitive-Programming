@@ -61,24 +61,20 @@
 	<li>practice questions on cp-algorithms</li>
     	</ol>  
 
-08. Eulear Totient Function and its properties - 
+08. Eulear Totient Function and its properties
 	<ol>
 	<li>[cp-algorithms](https://cp-algorithms.com/algebra/phi-function.html)</li>
     	<li>[Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)</li>
 	</ol>
 
-09. Wilson theorm - [visit](https://www.geeksforgeeks.org/wilsons-theorem)<ol><li>cp-algorithms - [Factorial modulo p in O(plogn)(https://cp-algorithms.com/algebra/factorial-modulo.html),</li><li>SPOJ ques - [DCEPC11B - Boring Factorials](https://www.spoj.com/problems/DCEPC11B)</li></ol>
+09. Wilson theorm[visit](https://www.geeksforgeeks.org/wilsons-theorem)<ol><li>cp-algorithms - [Factorial modulo p in O(plogn)(https://cp-algorithms.com/algebra/factorial-modulo.html),</li><li>SPOJ ques - [DCEPC11B - Boring Factorials](https://www.spoj.com/problems/DCEPC11B)</li></ol>
 
 10. Lucas Algorithm [visit](https://www.hackerearth.com/practice/notes/ncr-mod-mod-lucas-theorem)
     
 11. Fermat Little Theorm [visit](https://www.youtube.com/watch?v=aGjfSTr_0AE)
   
-12. Chinese remainder theorm (CRT)- ***Important*** Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0), time : (1:19:00 - 1:34:00)
-	
-	<ol>
-    	<li>Codeforces ques - [Competitive Programmer](https://codeforces.com/problemset/problem/1266/A)</li>
-	<li>Codeforces ques - [Remaiders Game](https://codeforces.com/contest/688/problem/D)</li>
-	</ol>
+12. Chinese remainder theorm (CRT)- ***Important*** Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0), time : (1:19:00 - 1:34:00)<ol><li>Codeforces ques - [Competitive Programmer](https://codeforces.com/problemset/problem/1266/A)</li><li>Codeforces ques - [Remaiders Game](https://codeforces.com/contest/688/problem/D)</li></ol>
+
 13. Miller-Rabin Primality Test 
 	<ol>
 	<li>cp-algorithms (https://cp-algorithms.com/algebra/primality_tests.html)</li>
