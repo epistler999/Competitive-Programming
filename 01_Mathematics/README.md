@@ -52,12 +52,7 @@
 
 05. Sieve of Eratosthenes<ol><li>[coding blocks youtube video](https://www.youtube.com/watch?v=yB57bcffJo4)</li><li>GFG [visit](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)</li></ol>
 
-06. Segmented Sieve -
-	<ol>
-	<li>[coding ninjas youtube video](https://www.youtube.com/watch?v=fByR5N-TseY&list=PLdTHVf36gGv86MNHZjJCQqGwGyxO8aa_C&index=18)</li>
-	<li>GFG resource [visit](https://www.geeksforgeeks.org/segmented-sieve)</li>
-	<li>GFG ques - [product of primes](https://practice.geeksforgeeks.org/problems/product-of-primes)</li>
-	</ol>
+06. Segmented Sieve<ol><li>[coding ninjas youtube video](https://www.youtube.com/watch?v=fByR5N-TseY&list=PLdTHVf36gGv86MNHZjJCQqGwGyxO8aa_C&index=18)</li><li>GFG resource [visit](https://www.geeksforgeeks.org/segmented-sieve)</li><li>GFG ques - [product of primes](https://practice.geeksforgeeks.org/problems/product-of-primes)</li></ol>
 
 07. Linear Diophantine Equation [visit](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
     	<ol>
