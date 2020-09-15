@@ -35,8 +35,6 @@ using namespace std;
 #define     all(a)              (a).begin(),(a).end()
 #define     BPC(x)              __builtin_popcountll(x)
 #define     gcd(a,b)            __gcd(a,b)
- 
-ll gcd(ll a,ll b) {if (a==0) return b;return gcd(b%a,a);}
 
 // Solution
 ll findMinimumPath(ll arr[][100],ll n,ll m)
