@@ -50,11 +50,7 @@
 
 04. Application of Extended Euclid's algorithm
 
-05. Sieve of Eratosthenes -
-	<ol>
-	<li>[coding blocks youtube video](https://www.youtube.com/watch?v=yB57bcffJo4)</li>
-	<li>GFG [visit](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)</li>
-	</ol>
+05. Sieve of Eratosthenes<ol><li>[coding blocks youtube video](https://www.youtube.com/watch?v=yB57bcffJo4)</li><li>GFG [visit](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)</li></ol>
 
 06. Segmented Sieve -
 	<ol>
@@ -70,8 +66,11 @@
 	<li>practice questions on cp-algorithms</li>
     	</ol>  
 
-08. Eulear Totient Function and its properties (cp-algorithms),
-    Youtube - [Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)
+08. Eulear Totient Function and its properties - 
+	<ol>
+	<li>[cp-algorithms](https://cp-algorithms.com/algebra/phi-function.html)</li>
+    	<li>[Competitive Programming - Number theory Webinar by coding blocks](https://www.youtube.com/watch?v=vPum8EqmFz0) time : (50:14 - 1:16:24)</li>
+	</ol>
 
 09. Wilson theorm - [visit](https://www.geeksforgeeks.org/wilsons-theorem)
     	<ol>
