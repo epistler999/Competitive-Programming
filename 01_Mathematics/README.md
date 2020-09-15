@@ -16,9 +16,9 @@
 
 06.  Pigeon hole principle [visit](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
 	<ol>
-	6.1 Codechef - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)
-	6.2 Codechef - [The Gray-Similar code](https://www.codechef.com/problems/GRAYSC)
-	6.3 Spoj - [HOLI-Holiday Accomadation](https://www.spoj.com/problems/HOLI/) with concept of graph<
+	<li>6.1 Codechef - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)</li>
+	<li>6.2 Codechef - [The Gray-Similar code](https://www.codechef.com/problems/GRAYSC)</li>
+	<li>6.3 Spoj - [HOLI-Holiday Accomadation](https://www.spoj.com/problems/HOLI/) with concept of graph</li>
 	</ol>
 07.  [inclusion - exclusion principle](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
 
