@@ -1,0 +1,109 @@
+
+/************************Mathematics***********************/
+
+01. big integer
+
+02. factorial of large numbers 
+
+03. fast exponentiation
+
+04. spoj ques "Recursive Sequence"
+
+05. Variation
+    spoj ques -"www.spoj.com/problems/SPP/"
+
+06. Pigeon hole principle
+   	
+	6.1 Codechef - "Divisible Subset"
+   	6.2 Codechef - "The Gray-Similar code"
+   	6.3 Spoj - "HOLI-Holiday Accomadation" with concept of graph 
+
+07. inclusion - exclusion principle
+
+08. Codechef "Sereja and LCM" only think and then see solution
+
+09. Mathematical Expectation and Bernoulli trial
+
+10. Binomial Cofficient
+
+/**********************************************************/
+
+
+/********************** Number Theory***********************/
+
+01. Euclid Algo - (hackerrank)
+
+02. Extended Euclid's Algo - (cp-algorithms),
+    hackerrank ques - "math158 Extended Euclidean Algorithm"
+
+03. Multiplicative Modulo Inverse (cp-algorithms,gfg)
+
+04. Application of Extended Euclid's algo
+
+05. Sieve of Eratosthenes (coding blocks youtube video),
+    gfg ques - (Sieve of Eratosthenes) 
+
+06. Segmented Sieve (coding ninjas youtube video),
+    gfg ques - "product of primes"
+
+07. Linear Diophantine Equation (cp-algoritms)
+    hackerank ques - "Sherlock and the beast",
+    gfg ques - "Find X and Y in Linear Equation"
+    and then cp-algorithms  
+
+08. Eulear Totient Function and its properties (cp-algorithms),
+    Youtube - ("Competitive Programming - Number theory Webinar
+    by coding blocks", time : 50:14 - 1:16:24)
+
+09. Wilson theorm - gfg,
+    cp-algorithms -"Factorial modulo p in O(plogn)",
+    SPOJ ques -"DCEPC11B - Boring Factorials"
+
+10. Lucas Algorithm (cp-algorithms) and atleast 10 ques on 
+	gfg, cp-algorithms
+    
+11. Fermat Little Theorm 
+    (youtube video - nCr %m in O(n)|Little Fermat Theorm)
+
+
+12. Chinese remainder theorm (CRT)- ***Important***
+    Youtube - ("Competitive Programming - Number theory Webinar
+    by coding blocks", time : 1:19:00 - 1:34:00)
+    Codeforces ques - "Competitive Programmer","Remaiders Game"
+
+13. Miller-Rabin Primality Test (cp-algorithms,gfg)
+    question practice on cp-algorithms,codeforces
+
+/**********************************************************/
+     
+
+
+
+
+/**************** References ***************************/
+
+
+-> https://atcoder.jp/
+-> https://www.codechef.com/
+-> https://codeforces.com/
+-> https://cp-algorithms.com/
+-> https://www.geeksforgeeks.org/
+-> https://www.hackerearth.com/
+-> https://www.hackerrank.com/
+-> http://leetcode.com/
+-> http://oeis.org/
+-> https://www.spoj.com/
+
+/**********************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
