@@ -2,6 +2,7 @@
 <br><br>
 
 <h2> 1. Focusing too much on the programming language</h2>
+<br>
 <div>
 <b>One of the basic mistakes that I committed made is investing too much time in deciding the programming language they should use for competitive 
 programming. There are lots and lots of articles about why CPP is better than Java (or vice versa) for competitive programming, the number of libraries 
