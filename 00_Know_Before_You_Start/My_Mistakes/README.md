@@ -2,9 +2,12 @@
 
 
 <h2> 1. Focusing too much on the programming language</h2>
-<div><b>One of the basic mistakes that I committed made is investing too much time in deciding the programming language they should use for competitive 
+<div>
+<h3>One of the basic mistakes that I committed made is investing too much time in deciding the programming language they should use for competitive 
 programming. There are lots and lots of articles about why CPP is better than Java (or vice versa) for competitive programming, the number of libraries 
-Python has, how fast CPP is, and so on. But it does not mean, if you choose Java, you cannot outperform a coder in CPP/Python. There are top competitive programmers who use Java, CPP,  Python, and other languages as well. In the end, what matters is how effective you are in implementing your logic in any programming language. As long as you are able to do that, any programming language could be the best one for you.</b></div>
+Python has, how fast CPP is, and so on. But it does not mean, if you choose Java, you cannot outperform a coder in CPP/Python. There are top competitive programmers who use Java, CPP,  Python, and other languages as well. In the end, what matters is how effective you are in implementing your logic in any programming language. As long as you are able to do that, any programming language could be the best one for you.</h3>
+</div>
+
 <br><hr><br>
 <h3>2. All practicing, No learning</h3>
 
