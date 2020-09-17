@@ -19,7 +19,7 @@ cp-algorithms, youtube tutorials, and seeing solutions of the problems which i w
 <br><br>
 <h2>4. Only participating in contests</h2>
 <p>
-<b>One of the best things about competitive programming is that it provides a significant number of opportunities to showcase your skills. <br><br>I jumped to contest after getting somelevel of coding and once i scored good results, i stopped practicing. Soon my attitude began just to pratice in live contests. this limited my learning to contests only. This is an most incorrect way to carry on competitive coding unless you are happy with the stagnant results.</b>
+<b>One of the best things about competitive programming is that it provides a significant number of opportunities to showcase your skills. <br><br>I jumped to contest after getting somelevel of coding and once i scored good results, i stopped practicing. Soon my attitude began just to pratice in live contests. This limited my learning to contests only. This is an most incorrect way to carry on competitive coding unless you are happy with the stagnant results.</b>
 </p>
 <br><br>
 <h2> 5. Not participating in contests</h2>
