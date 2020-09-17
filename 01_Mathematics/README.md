@@ -25,9 +25,9 @@
 09.  Mathematical Expectation And Bernoulli Trial
 
 10.  [Binomial Cofficient](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) 
-<br><br><r>
+<br><br><br>
 
- 										<h1>Number Theory<h1><br><br>
+ <h1>Number Theory<h1><br><br>
 
 01.  Euclid Algorithm - [Visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)</li>
 
@@ -58,17 +58,9 @@
 12. Chinese Remainder Theorm (CRT) - [Coding Blocks Youtube](https://www.youtube.com/watch?v=vPum8EqmFz0), Time : (1:19:00 - 1:34:00)<ol><li>Codeforces Question - [Competitive Programmer](https://codeforces.com/problemset/problem/1266/A)</li><li>Codeforces Question - [Remaiders Game](https://codeforces.com/contest/688/problem/D)</li></ol>
 
 13. Miller-Rabin Primality Test <ol><li>[Cp-Algorithms](https://cp-algorithms.com/algebra/primality_tests.html)</li><li>[GFG](https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/)</li></ol>
+<br><br><br>
 
-
-
-
-
-
-
-
-
- 									References 
-
+<h1>References</h1><br><br> 
 <ul>
 <li> https://atcoder.jp/</li>
 <li> https://www.codechef.com/</li>
