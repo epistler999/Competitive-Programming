@@ -2,6 +2,7 @@
 
 
 <h1>Mathematics</h1><br><br>
+
 01.  Big Integer [Visit](https://www.geeksforgeeks.org/advanced-c-boost-library/)
 
 02.  Factorial Of Large Numbers [Visit](https://www.geeksforgeeks.org/factorial-large-number/) 
@@ -29,7 +30,7 @@
 
 <h1>Number Theory</h1><br><br>
 
-01.  Euclid Algorithm - [Visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)</li>
+01.  Euclid Algorithm - [Visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
 02.  Extended Euclid's Algorithm - 
 	<ol>
