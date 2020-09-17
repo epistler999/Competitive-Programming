@@ -1,9 +1,7 @@
 
 
 
- 									Mathematics
-									
-									
+ 									<h1>Mathematics</h1><br><br>
 									
 									
 									
@@ -30,18 +28,9 @@
 09.  Mathematical Expectation And Bernoulli Trial
 
 10.  [Binomial Cofficient](https://cp-algorithms.com/combinatorics/binomial-coefficients.html) 
+<br><br><r>
 
-
-
-
-
-
-
- 										Number Theory
-
-
-
-
+ 										<h1>Number Theory<h1><br><br>
 
 01.  Euclid Algorithm - [Visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)</li>
 
