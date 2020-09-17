@@ -2,6 +2,7 @@
 
 
 <h1>Mathematics</h1><br><br><b>
+	
 01.  Big Integer [Visit](https://www.geeksforgeeks.org/advanced-c-boost-library/)
 
 02.  Factorial Of Large Numbers [Visit](https://www.geeksforgeeks.org/factorial-large-number/) 
@@ -28,6 +29,7 @@
 <br><br><br>
 
 <h1>Number Theory</h1><br><br><b>
+	
 01.  Euclid Algorithm - [Visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
 02.  Extended Euclid's Algorithm - 
@@ -61,16 +63,16 @@
 
 <h1>References</h1><br><br> 
 <ul>
-<li> [Atcoder](https://atcoder.jp/)</li>
-<li> [Codechef](https://www.codechef.com/)</li>
-<li> [Codeforces](https://codeforces.com/)</li>
-<li> [Cp-Algorithms](https://cp-algorithms.com/)</li>
-<li> [GeeksForGeeks](https://www.geeksforgeeks.org/)</li>
-<li> [HackerEarth](https://www.hackerearth.com/)</li>
-<li> [HackerRank](https://www.hackerrank.com/)</li>
-<li> [LeetCode](http://leetcode.com/)</li>
-<li> [Oeis](http://oeis.org/)</li>
-<li> [Spoj](https://www.spoj.com/)</li>
+<li> https://atcoder.jp/</li>
+<li> https://www.codechef.com/</li>
+<li> https://codeforces.com/</li>
+<li> https://cp-algorithms.com/</li>
+<li> https://www.geeksforgeeks.org/</li>
+<li> https://www.hackerearth.com/</li>
+<li> https://www.hackerrank.com/</li>
+<li> http://leetcode.com/</li>
+<li> http://oeis.org/</li>
+<li> https://www.spoj.com/</li>
 </ul>	
 
 
