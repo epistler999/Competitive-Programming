@@ -3,9 +3,7 @@
 
 <h2> 1. Focusing too much on the programming language</h2>
 <p>
-<b>One of the basic mistakes that i committed made is investing too much time in deciding the programming language they should use for competitive 
-programming.<br>There are lots and lots of articles about why CPP is better than Java (or vice versa) for competitive programming, the number of libraries 
-Python has, how fast CPP is, and so on.,br>But it does not mean, if you choose Java, you cannot outperform a coder in CPP/Python. There are top competitive programmers who use Java, CPP,  Python, and other languages as well. In the end, what matters is how effective you are in implementing your logic in any programming language.<br> As long as you are able to do that, any programming language could be the best one for you.</b>
+<b>One of the basic mistakes that i committed made is investing too much time in deciding the programming language they should use for competitive programming.<br>There are lots and lots of articles about why CPP is better than Java (or vice versa) for competitive programming, the number of libraries Python has, how fast CPP is, and so on.,br>But it does not mean, if you choose Java, you cannot outperform a coder in CPP/Python. There are top competitive programmers who use Java, CPP,  Python, and other languages as well. In the end, what matters is how effective you are in implementing your logic in any programming language.<br> As long as you are able to do that, any programming language could be the best one for you.</b>
 </p>
 <br><br>
 <h2> 2. All practicing, No learning</h2>
@@ -26,26 +24,17 @@ cp-algorithms, youtube tutorials, and seeing solutions of the problems which i w
 <br><br>
 <h2> 5. Not participating in contests</h2>
 <p>
-<b>If you keep practicing and never actually participate in a contest, there is no way you can evaluate your performance. <br>Contests help us understand 
-our position in the real world. They help us evaluate our hard work by competing with others in the same field.<br> Solving a question during a contest is a lot different than solving it in free time. Being time-constrained while withstanding the pressure by the competition from the fellow participants actually shows how effective you are.It helps you to judge yourself on actual parameters like knowledge, time, speed, problem-solving and debugging skills , modularity of code. It boosts the programmer to write cleaner and better code.</b>   . 
+<b>If you keep practicing and never actually participate in a contest, there is no way you can evaluate your performance. <br>Contests help us understand our position in the real world. They help us evaluate our hard work by competing with others in the same field.<br> Solving a question during a contest is a lot different than solving it in free time. Being time-constrained while withstanding the pressure by the competition from the fellow participants actually shows how effective you are.It helps you to judge yourself on actual parameters like knowledge, time, speed, problem-solving and debugging skills , modularity of code. It boosts the programmer to write cleaner and better code.</b>   . 
 </p>
 <br><br>
 <h2> 6. Solving random questions</h2>
 <p>
-<b>At start of competitive journey  i started solving random questions. for e.g : <br>
-Codeforces - A, B type regularly,<br>
-Codechef, hackerrank - cakewalk, easy, medium etc.<br>
-Solve random questions wont benefit me at all. Unless you have a plan to understand problems in one category, the improvement will not be significant.<br> It's true that in competitive programming success resides in knowing different algorithms and being able to solve the diverse sets of questions. Initially, the goal shouldn't be to improve ranks, In fact, the focus should be on learning new topics and being able to solve questions pertaining to those topics.</b>
+<b>At start of competitive journey  i started solving random questions. for e.g : <br>Codeforces - A, B type regularly,<br>Codechef, hackerrank - cakewalk, easy, medium etc.<br>Solve random questions wont benefit me at all. Unless you have a plan to understand problems in one category, the improvement will not be significant.<br> It's true that in competitive programming success resides in knowing different algorithms and being able to solve the diverse sets of questions. Initially, the goal shouldn't be to improve ranks, In fact, the focus should be on learning new topics and being able to solve questions pertaining to those topics.</b>
 </p>
 <br><br>
 <h2>7. "Giving up" or Loosing hope very soon</h2> 
 <p>
-<b>"Merepe nhi hopayegaa "<br>
-"Mere bas ki baat nhi "<br>
-"It's too difficult to solve "<br>
-"It's too frustating, I can't handle it "<br>
-Well, I made all of these excuses and mistakes.
-Yes, it can get frustrating at times. I have been in situations where I spent a number of hours trying to solve a question without reaching an optimal solution. <br>There will always be questions that you might not be able to solve. It does not mean that you should just give up. It does not equate to failure.<br>In any case, you will learn a new concept thereby progressing in your CP journey. A general suggestion would be to always look at the editorials to learn new concepts and to understand why you were unable to solve the problem.</b>  
+<b>"Merepe nhi hopayegaa "<br>"Mere bas ki baat nhi "<br>"It's too difficult to solve "<br>"It's too frustating, I can't handle it "<br>Well, I made all of these excuses and mistakes. Yes, it can get frustrating at times. I have been in situations where I spent a number of hours trying to solve a question without reaching an optimal solution. <br>There will always be questions that you might not be able to solve. It does not mean that you should just give up. It does not equate to failure.<br>In any case, you will learn a new concept thereby progressing in your CP journey. A general suggestion would be to always look at the editorials to learn new concepts and to understand why you were unable to solve the problem.</b>  
 </p>
 <br><br>
 
