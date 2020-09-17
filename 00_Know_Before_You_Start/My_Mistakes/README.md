@@ -38,8 +38,7 @@ cp-algorithms, youtube tutorials, and seeing solutions of the problems which i w
 </p>
 <br><br>
 
-Just Remember -<br><br> 
-<h1>Don’t take the easy route. When you are harder on yourself, life is easy, when you go easy on yourself, life is harder.</h1>
+<b>Just Remember</b> - <h2>Don’t take the easy route. When you are harder on yourself, life is easy, when you go easy on yourself, life is harder.</h2><br><br>
 
 ### Original creater - KUNAL DWIVEDI SIR (SDE at Amazon)
 I have modified it for mistakes which i committed.
