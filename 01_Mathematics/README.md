@@ -1,10 +1,7 @@
 
 
 
- 									<h1>Mathematics</h1><br><br>
-									
-									
-									
+<h1>Mathematics</h1><br><b>									
 01.  Big Integer [Visit](https://www.geeksforgeeks.org/advanced-c-boost-library/)
 
 02.  Factorial Of Large Numbers [Visit](https://www.geeksforgeeks.org/factorial-large-number/) 
