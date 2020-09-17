@@ -8,7 +8,7 @@ programming. There are lots and lots of articles about why CPP is better than Ja
 Python has, how fast CPP is, and so on. But it does not mean, if you choose Java, you cannot outperform a coder in CPP/Python. There are top competitive programmers who use Java, CPP,  Python, and other languages as well. In the end, what matters is how effective you are in implementing your logic in any programming language. As long as you are able to do that, any programming language could be the best one for you.
 </div>
 <br><hr><br>
-<b>2. All practicing, No learning</b>
+<h3>2. All practicing, No learning</h3>
 
 when i started competitive, solving more and more problems was my first target. i solved 100-150 problems in a month, after which, i too lack in confidence. i practiced this until i got a realise you are bound to get stuck at some point, until and unless you learn related topics concerned with the problem. For instance, if there is a question that requires lazy propagation of a segment tree, no matter how well you know a normal segment tree, you cannot implement it. It is important to keep learning new algorithms, data structures. Becoming better in competitive programming is not all about solving problems. In the long run, when you have knowledge of a sufficient number of data structures and algorithms, you will be able to find the logic of most of the questions just by reading them.
 </div>
