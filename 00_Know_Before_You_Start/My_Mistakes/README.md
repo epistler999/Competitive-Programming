@@ -39,8 +39,7 @@ cp-algorithms, youtube tutorials, and seeing solutions of the problems which i w
 <br><br>
 
 
-### Original creater - KUNAL DWIVEDI SIR (SDE at Amazon)
-I have modified it for mistakes which i committed.
+### Credits - KUNAL DWIVEDI SIR (SDE at Amazon)
 
 Thank you<br>
 Regards,<br> 
@@ -48,4 +47,4 @@ Regards,<br>
 
 
 
-Happy Coding Happy Learning 
+<h1>Happy Coding Happy Learning</h1> 
