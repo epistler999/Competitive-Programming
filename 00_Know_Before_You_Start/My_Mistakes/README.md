@@ -1,5 +1,4 @@
-# Competitive programming is a sport, just like any other sport. You walk in to play and try to score, you may fail or you may succeed.<br>
-# Some mistakes which I committed. Hope you will get to learn from it.
+<h1>Competitive programming is a sport, just like any other sport. You walk in to play and try to score, you may fail or you may succeed.<br>Some mistakes which I committed while playing this wonderfulsport. Hope you will get to learn from it.</h1>
 <br><br>
 
 <h2> 1. Focusing too much on the programming language</h2>
