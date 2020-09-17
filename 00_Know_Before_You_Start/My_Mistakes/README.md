@@ -34,9 +34,12 @@ cp-algorithms, youtube tutorials, and seeing solutions of the problems which i w
 <br><br>
 <h2>7. "Giving up" or Loosing hope very soon</h2> 
 <p>
-<b>"Merepe nhi hopayegaa "<br><br>"Mere bas ki baat nhi "<br><br>"It's too difficult to solve "<br><br>"It's too frustating, I can't handle it "<br><br>Well, I made all of these excuses and mistakes. Yes, it can get frustrating at times. I have been in situations where I spent a number of hours trying to solve a question without reaching an optimal solution. <br><br>There will always be questions that you might not be able to solve. It does not mean that you should just give up. It does not equate to failure.<br>In any case, you will learn a new concept thereby progressing in your CP journey. A general suggestion would be to always look at the editorials to learn new concepts and to understand why you were unable to solve the problem.</b>  
+<b>"Merepe nhi hopayegaa "<br><br>"Mere bas ki baat nhi "<br><br>"It's too difficult to solve "<br><br>"It's too frustating, I can't handle it "<br><br>Well, I made all of these excuses and mistakes. Yes, it can get frustrating at times. I have been in situations where I spent a number of hours trying to solve a question without reaching an optimal solution. <br><br>There will always be questions that you might not be able to solve. It does not mean that you should just give up. It does not equate to failure.<br>In any case, you will learn a new concept thereby progressing in your CP journey. A general suggestion would be to always look at the editorials to learn new concepts and to understand why you were unable to solve the problem.<br> 
 </p>
 <br><br>
+
+Just Remember -<br><br> 
+<h1>Don’t take the easy route. When you are harder on yourself, life is easy, when you go easy on yourself, life is harder.</h1>
 
 ### Original creater - KUNAL DWIVEDI SIR (SDE at Amazon)
 I have modified it for mistakes which i committed.
