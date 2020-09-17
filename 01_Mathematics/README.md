@@ -43,7 +43,7 @@
 
 
 
-01.  Euclid Algorithm - [visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)</li>
+01.  Euclid Algorithm - [Visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)</li>
 
 02.  Extended Euclid's Algorithm - 
 	<ol>
