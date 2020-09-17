@@ -1,8 +1,7 @@
 
 
 
-<h1>Mathematics</h1><br><br>
-<b>
+<h1>Mathematics</h1><br><br><b>
 01.  Big Integer [Visit](https://www.geeksforgeeks.org/advanced-c-boost-library/)
 
 02.  Factorial Of Large Numbers [Visit](https://www.geeksforgeeks.org/factorial-large-number/) 
@@ -28,8 +27,7 @@
 10.  [Binomial Cofficient](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)</b> 
 <br><br><br>
 
-<h1>Number Theory</h1><br><br>
-<b>
+<h1>Number Theory</h1><br><br><b>
 01.  Euclid Algorithm - [Visit](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem#:~:text=Given%20two%20integers%2C%20and%20%2C%20a,at%20a%20more%20efficient%20implementation.)
 
 02.  Extended Euclid's Algorithm - 
