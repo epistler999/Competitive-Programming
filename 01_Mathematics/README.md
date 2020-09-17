@@ -84,7 +84,7 @@
  									References 
 
 <ul>
-<li> (https://atcoder.jp/)</li>
+<li> https://atcoder.jp/</li>
 <li> (https://www.codechef.com/)</li>
 <li> (https://codeforces.com/)</li>
 <li> (https://cp-algorithms.com/)</li>
