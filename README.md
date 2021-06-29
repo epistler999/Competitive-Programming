@@ -1,6 +1,6 @@
 # Competitive Programming
 
-Follow my practice sheet if you want to learn - <a href = "https://docs.google.com/spreadsheets/d/1_H7lnaGZkMgXMozu1F88jrUzTsN9IdPdZy_9vQzatpY/edit?usp=sharing ">Epistler Practice Sheet</a>
+Follow my practice sheet if you want to learn - <a href = "https://docs.google.com/spreadsheets/d/1_H7lnaGZkMgXMozu1F88jrUzTsN9IdPdZy_9vQzatpY/edit?usp=sharing ">Epistler_Practice_Sheet</a>
 
 
 <h3>References</h3>
