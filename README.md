@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/1_H7lnaGZkMgXMozu1F88jrUzTsN9IdPdZy_9vQza
 <li> https://www.codechef.com/</li>
 <li> https://codeforces.com/</li>
 <li> https://cp-algorithms.com/</li>
-<li> https://www.e-olymp.com/en/contests</li>
+<li> https://www.e-olymp.com/</li>
 <li> https://www.geeksforgeeks.org/</li>
 <li> https://www.hackerearth.com/</li>
 <li> https://www.hackerrank.com/</li>
